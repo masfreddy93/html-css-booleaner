@@ -1,3 +1,20 @@
+header{
+    background-color: rgb(45, 122, 216);
+    background-image: url("../img/pattern.png");
+    background-size: 400px;
+    margin: 0px;
+    border: 0px;
+    padding-top: 40px;
+}
+
+header img{
+    height: 60px;
+}
+
 body{
-    background-color: chartreuse;
+    margin: 0px;
+}
+
+main{
+    margin: 8px;
 }
