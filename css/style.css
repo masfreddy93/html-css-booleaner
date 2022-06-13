@@ -31,3 +31,11 @@ main{
 .foto span{
     font-size: 12px;;
 }
+
+.paragrafo-iniziale span{
+    background-color: yellow;
+}
+
+.elenco ul{
+    padding-left: 16px;
+}
