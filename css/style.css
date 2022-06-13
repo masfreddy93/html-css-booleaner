@@ -32,7 +32,7 @@ main{
     font-size: 12px;;
 }
 
-.paragrafo-iniziale span{
+.paragrafo span{
     background-color: yellow;
 }
 
@@ -67,3 +67,4 @@ table {
     width: 550px;
     text-align: left;
 }
+
