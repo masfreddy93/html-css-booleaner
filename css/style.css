@@ -39,3 +39,31 @@ main{
 .elenco ul{
     padding-left: 16px;
 }
+
+.tabella .blue{
+    background-color: rgb(30, 169, 207);
+}
+
+.tabella thead tr{
+    background-color: rgb(12, 81, 138);
+    color: whitesmoke;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#colonna-1{
+    width: 300px;
+    text-align: left;
+}
+
+#colonna-2{
+    width: 300px;
+    text-align: left;
+}
+
+#colonna-3{
+    width: 550px;
+    text-align: left;
+}
