@@ -9,6 +9,7 @@ header{
 
 header img{
     height: 60px;
+    margin-left: 10px;
 }
 
 body{
@@ -17,4 +18,16 @@ body{
 
 main{
     margin: 8px;
+}
+
+.titolo h1, .titolo h4, .titolo h5{
+    margin: 4px;
+}
+
+.titolo h4, .titolo h5{
+    color: grey;
+}
+
+.foto span{
+    font-size: 12px;;
 }
